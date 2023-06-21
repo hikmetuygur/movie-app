@@ -4,7 +4,7 @@ The Movie App is a simple web application that allows users to search for movies
 
 ![Movie App Demo](/assets/movie-app.gif)
 &nbsp;
-![Movie App Img](/assets/movie-app.gif)
+![Movie App Img](/assets/movie-app.png)
 
 ## Features
 
