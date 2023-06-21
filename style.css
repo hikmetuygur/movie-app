@@ -44,6 +44,8 @@ header {
 main {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .movie {
@@ -91,7 +93,8 @@ main {
 }
 
 .overview {
-  background-color: #eee;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: #eee;
   padding: 2rem;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
