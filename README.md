@@ -64,4 +64,4 @@ To run the Movie App locally, you will need an API key from The Movie Database (
 
 This project is licensed under the MIT License.
 
-Made from <a href="https://twitter.com/iamleviyn">Leviyn</a> with :heart:
+Made from <a href="https://twitter.com/uygurhikmet">Hikmet</a> with :heart:
